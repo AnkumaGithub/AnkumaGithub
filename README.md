@@ -1,4 +1,4 @@
-Hi 👋 My name is Maksim
+Hey, welcome to my Github page!
 =======================
 
 ML/DL Developer
