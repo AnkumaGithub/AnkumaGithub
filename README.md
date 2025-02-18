@@ -1,7 +1,7 @@
  Hey 👋 , welcome to my Github page!
 =======================
 
-ML/DL Developer
+DL/ML Developer
 ---------------
 
 Skills 
