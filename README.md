@@ -13,4 +13,4 @@ Pet projects and labs
 <p align="left">
 -MNIST recognition 
 <p align="left">
--C++ labs from misis
+-C++ labs
