@@ -11,6 +11,6 @@ Skills
 Pet projects and labs
 <p align="left">
 <p align="left">
--MNIST recognition 
+-MNIST recognition https://github.com/AnkumaGithub/MNIST_recognition/blob/main/main.ipynb
 <p align="left">
 -C++ labs
