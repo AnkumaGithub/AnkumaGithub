@@ -10,5 +10,5 @@ Skills
                     </p>
 Pet projects and labs
 <p align="left">
--MNIST recognition
+-MNIST recognition <p align="left">
 -C++ labs from misis
