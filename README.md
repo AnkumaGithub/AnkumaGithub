@@ -11,5 +11,4 @@ Skills
 Pet projects and labs
 <p align="left">
 -MNIST recognition
- 
 -C++ labs from misis
