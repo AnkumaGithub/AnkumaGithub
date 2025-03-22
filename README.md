@@ -11,6 +11,8 @@ Skills
 Pet projects and labs
 <p align="left">
 <p align="left">
+Selfmade transformer for toxic classification https://github.com/AnkumaGithub/IMDB_toxic_classifier_transformer
+<p align="left">
 -w2v for "War and Peace" https://github.com/AnkumaGithub/w2v
 <p align="left">
 -MNIST recognition with CNN https://github.com/AnkumaGithub/CNN
