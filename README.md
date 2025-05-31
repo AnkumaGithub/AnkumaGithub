@@ -11,7 +11,7 @@ Skills
 Pet projects and labs
 <p align="left">
 <p align="left">
--MiniGPT ~ 150M parameters (in progress) https://github.com/AnkumaGithub/miniGPT
+-MiniGPT ~ 150M parameters https://github.com/AnkumaGithub/miniGPT
 <p align="left">
 -Transformer for toxic comments classification https://github.com/AnkumaGithub/IMDB_toxic_classifier_transformer
 <p align="left">
