@@ -11,7 +11,7 @@ Skills
 Pet projects and labs
 <p align="left">
 <p align="left">
--Kuggle competition https://github.com/AnkumaGithub/BERT-ViT-CatBoost-Kuggle-    
+-Kaggle competition https://github.com/AnkumaGithub/BERT-ViT-CatBoost-Kaggle-    
 <p align="left">
 -MiniGPT ~ 150M parameters https://github.com/AnkumaGithub/miniGPT
 <p align="left">
