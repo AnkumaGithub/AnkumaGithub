@@ -11,6 +11,8 @@ Skills
 Pet projects and labs
 <p align="left">
 <p align="left">
+-Kuggle competition https://github.com/AnkumaGithub/BERT-ViT-CatBoost-Kuggle-    
+<p align="left">
 -MiniGPT ~ 150M parameters https://github.com/AnkumaGithub/miniGPT
 <p align="left">
 -Transformer for toxic comments classification https://github.com/AnkumaGithub/IMDB_toxic_classifier_transformer
