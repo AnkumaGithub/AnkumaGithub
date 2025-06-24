@@ -11,9 +11,9 @@ Skills
 Pet projects and labs
 <p align="left">
 <p align="left">
--Kaggle competition https://github.com/AnkumaGithub/BERT-ViT-CatBoost-Kaggle-    
+-Kaggle competition https://github.com/AnkumaGithub/BERT-ViT-CatBoost-Kaggle- (community)  
 <p align="left">
--MiniGPT ~ 150M parameters https://github.com/AnkumaGithub/miniGPT
+-MiniGPT ~ 150M parameters https://github.com/AnkumaGithub/miniGPT (курсовая)
 <p align="left">
 -Transformer for toxic comments classification https://github.com/AnkumaGithub/IMDB_toxic_classifier_transformer
 <p align="left">
