@@ -11,6 +11,8 @@ Skills
 Pet projects and labs
 <p align="left">
 <p align="left">
+-Microservices chatbot https://github.com/AnkumaGithub/Chatbot_with_docker
+<p align="left">
 -Kaggle competition https://github.com/AnkumaGithub/BERT-ViT-CatBoost-Kaggle- (community, 1st place)  
 <p align="left">
 -MiniGPT ~ 150M parameters https://github.com/AnkumaGithub/miniGPT (курсовая)
